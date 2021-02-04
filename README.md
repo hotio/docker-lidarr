@@ -49,4 +49,4 @@ In most cases you'll need to add additional volumes, depending on your own perso
 
 ## Tags
 
-Go [here](https://hotio.dev/containers-overview/#hotiolidarr) to see all available tags.
+Go [here](https://hotio.dev/tags-overview/#hotiolidarr) to see all available tags.
