@@ -4,28 +4,28 @@
       "name": "release",
       "version": "0.7.2.1878",
       "commit": "5583e02",
-      "upstream": "",
+      "upstream": "master",
       "lastUpdated": "2021-02-23T13:19:51.297Z"
     },
     {
       "name": "testing",
       "version": "0.8.0.2042",
       "commit": "8f3c35b",
-      "upstream": "",
+      "upstream": "develop",
       "lastUpdated": "2021-02-23T13:08:57.305Z"
     },
     {
       "name": "nightly",
       "version": "0.8.0.2067",
       "commit": "3ed9dde",
-      "upstream": "",
+      "upstream": "nightly",
       "lastUpdated": "2021-02-23T13:09:20.915Z"
     },
     {
       "name": "pr",
       "version": "",
       "commit": "",
-      "upstream": "",
+      "upstream": "pull requests",
       "lastUpdated": ""
     }
   ]
