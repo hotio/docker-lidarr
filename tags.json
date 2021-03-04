@@ -17,9 +17,9 @@
     {
       "name": "nightly",
       "version": "0.8.0.2075",
-      "commit": "de191f0",
+      "commit": "9a5a3a1",
       "upstream": "nightly",
-      "lastUpdated": "2021-02-28T12:27:24.761Z"
+      "lastUpdated": "2021-03-04T04:24:16.668Z"
     },
     {
       "name": "pr",
