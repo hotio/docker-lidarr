@@ -20,13 +20,6 @@
       "commit": "1e0ed69",
       "upstream": "nightly",
       "lastUpdated": "2021-03-08T02:47:43.556Z"
-    },
-    {
-      "name": "pr",
-      "version": "sonarr-pull-efd9fe9a-0.8.0.2079",
-      "commit": "724c928",
-      "upstream": "pull requests",
-      "lastUpdated": "2021-03-08T01:19:00.721Z"
     }
   ],
   "pulls": 9932135,
