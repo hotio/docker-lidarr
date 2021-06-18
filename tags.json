@@ -3,9 +3,9 @@
     {
       "name": "release",
       "version": "0.8.1.2135",
-      "commit": "cd864f6",
+      "commit": "2fb551a",
       "upstream": "master",
-      "lastUpdated": "2021-05-27T14:46:43.946Z"
+      "lastUpdated": "2021-06-18T02:17:29.048Z"
     },
     {
       "name": "testing",
